@@ -1,5 +1,3 @@
-# <center>RBAC访问控制实验报告</center>
-
 ## <center>概述</center>
 
 ​&emsp;&emsp; 编程语言：C++
